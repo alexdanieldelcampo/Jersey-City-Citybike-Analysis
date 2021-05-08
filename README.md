@@ -1,5 +1,5 @@
 ## Link to Visualization
-https://public.tableau.com/profile/alexander.del.campo5224#!/vizhome/JC_Citybike2020/2020Months
+https://public.tableau.com/profile/alexander.del.campo5224#!/vizhome/JC_Citybike2020/JCCitibike
 
 ### Jersey City Citybike Analysis:
 
