@@ -5,7 +5,7 @@ https://public.tableau.com/profile/alexander.del.campo5224#!/vizhome/JC_Citybike
 
 **1. Month to Month**
 
-The most important take away from here is that we can see that the summer months are seeing greater overall use than other seasons. April has an extremely low activity rate while October has seen the highest. It's important to pay attention in May for that is when a surge in users may appear.
+The most important take away from here is that we can see that the summer months are seeing greater overall use than other seasons. April has an extremely low activity rate while October has seen the highest. It is important to pay attention to the increase in users in May so that Citibike can be prepared for an increase in equipment use.
 ![Month to Month](readme_images/MonthtoMonth.png)
 **2. Summer/Winter Hours**
 
