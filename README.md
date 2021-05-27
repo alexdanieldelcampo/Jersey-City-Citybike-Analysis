@@ -26,3 +26,8 @@ The stations that are least used are on the outer parts of the city and away fro
 
 Data reveals that a majority of users are male and that **15.50%** of them are unknown in gender. This data also shows that average trip durations rise in the summer and fall in the winter.
 ![gender/bikes](readme_images/gender_bikes.png)
+
+### Contact Information:
+
+**E-mail:** alexdanieldelcampo@gmail.com <br />
+**Linkedin:** www.linkedin.com/in/alexander-del-campo
